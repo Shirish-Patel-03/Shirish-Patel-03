@@ -1,16 +1,22 @@
-## Hi there 👋
+Hey, I'm Shirish 👋
 
-<!--
-**Shirish-Patel-03/Shirish-Patel-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd-year CS student at BIT Durg, figuring out ML and Data Science — one notebook at a time.
 
-Here are some ideas to get you started:
+I'm in that early stage where I'm learning more than I'm building, but I'm trying to change that ratio every week.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently learning**
+- Machine Learning fundamentals (scikit-learn, NumPy, pandas)
+- Python for data — cleaning, EDA, basic modelling
+- Deep Learning concepts (working my way there)
+
+**What I'm working toward**
+- Shipping projects I'm not embarrassed to link to
+- Understanding how models actually work, not just using them
+- Eventually: a DS/ML role, and working globally
+
+**On this profile**
+You'll find beginner work — notebooks, experiments, things I built while learning.
+Nothing polished yet, but that's kind of the point.
+
+---
+📍 Durg, Chhattisgarh    🎓 B.Tech CSE, 2026    📬 Open to collabs & feedback
