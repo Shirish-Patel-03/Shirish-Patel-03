@@ -1,6 +1,6 @@
 Hey, I'm Shirish 👋
 
-3rd-year CS student at BIT Durg, figuring out ML and Data Science — one notebook at a time.
+Final year CS student at BIT Durg, figuring out ML and Data Science — one notebook at a time.
 
 I'm in that early stage where I'm learning more than I'm building, but I'm trying to change that ratio every week.
 
